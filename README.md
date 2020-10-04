@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Osama Bzour</title>
 
 </head>
 
